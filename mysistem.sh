@@ -14,3 +14,7 @@ sudo apt install git
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 
+git remote
+git status
+git push
+git pull
