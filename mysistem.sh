@@ -18,3 +18,13 @@ git remote
 git status
 git push
 git pull
+
+
+git add.
+git commit -m "file name"
+git push origin
+
+
+
+wiiiiii
+im a tire
