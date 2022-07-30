@@ -28,3 +28,8 @@ git push origin
 
 wiiiiii
 im a tire
+
+privet lol kek
+new comit
+watch diresta
+ha ha ha ha ah
